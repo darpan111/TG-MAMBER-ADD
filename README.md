@@ -1,4 +1,4 @@
-# ᴢᴇʙʀᴀ ᴛɢ ᴍᴇᴍʙᴇʀ ᴀᴅᴅᴇʀ 1.0
+# ᴛɢ ᴍᴇᴍʙᴇʀ ᴀᴅᴅᴇʀ 1.0
 <p align='center'><b>Cross Platform Telegram Members Scraping and Adding Toolkit</b></p>
 
 # 𝚄𝚂𝙰𝙶𝙴 👨‍🔧
